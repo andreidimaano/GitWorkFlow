@@ -293,7 +293,7 @@ In GitHub each repository has its own associated set of issues, which are locate
 Let's start by creating two issues for today's lab, with each partner creating one of the issues. Here we have listed the title is in bold followed by the text for the body of the issue. Note that you can use markup in the body of your issues which we encourage you to do.
 
 * **Create a word counting function**: Add a function to `main.cpp` which counts the number of words input from the user
-*for sam(we can switch if you want but I just created the first issue :D!): **creating a word counting unit test**: Create unit tests for the word count function
+* for sam(we can switch if you want but I just created the first issue :D!): **creating a word counting unit test**: Create unit tests for the word count function
 
 Throughout the remainder of the lab, Partner 1 will be working on the count function and Partner 2 will be creating the unit test. Make sure to set the assignees according to who will be completing which portion. For creating a count function, choose the "enhancement" label. For the unit test, choose the "unit test" label. Don't worry about selecting Projects or Milestone for this lab.
 
