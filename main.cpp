@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 #include "c-echo.h"
 #include "c-count.h"
-
-=======
->>>>>>> dd1202a41cf8905aedc941f5e94591de0ab3df0d
 #include <iostream>
 #include <string>
 
@@ -32,6 +28,3 @@ int main(int argv, char** argc){
 <<<<<<< HEAD
 	
 }*/
-=======
-}
->>>>>>> dd1202a41cf8905aedc941f5e94591de0ab3df0d
