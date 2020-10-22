@@ -10,7 +10,7 @@ int CountWords(int length, char** chars) {
             ++ret;
         }
     }
-    std:: cout << "Number of words: " << ret;
+    //std:: cout << "Number of words: " << ret;
     return ret;
 }
 
