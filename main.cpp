@@ -1,5 +1,3 @@
-#include "c-echo.h"
-
 #include <iostream>
 #include <string>
 
@@ -9,8 +7,8 @@ int CountWords(int length, char** chars) {
         if(i < length - 1) {
             ++ret;
         }
-    }
-    //std:: cout << "Number of words: " << ret;
+    } 
+    std:: cout << "Number of words: " << ret << "\n";
     return ret;
 }
 
@@ -21,12 +19,4 @@ int main(int argv, char** argc){
 
 	int numWords = 0;
 	numWords = CountWords(argv,argc);
-	
-
-	std::string name;
-	std::cout << "What is your name?" << std::endl;
-	std::cin >> name;
-	std::cout << "Hello " << name << "!" << std::endl;
-
-	return 0;	
 }
